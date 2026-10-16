@@ -22,6 +22,6 @@ I'm interested in machine learning, deep learning and quantum machine learning, 
 
 ## Tech
 
-**Languages:** C, C++, Python, Java, SQL, x86-64 assembly
-**AI / ML:** PyTorch, NumPy, SciPy, Matplotlib, Qiskit, PennyLane
-**Tools:** Linux, Git, Make/CMake, Valgrind, perf, PostgreSQL, LaTeX
+- **Languages:** C, C++, Python, Java, SQL, x86-64 assembly
+- **AI / ML:** PyTorch, NumPy, SciPy, Matplotlib, Qiskit, PennyLane
+- **Tools:** Linux, Git, Make/CMake, Valgrind, perf, PostgreSQL, LaTeX
